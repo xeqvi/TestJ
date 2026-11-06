@@ -1,0 +1,17 @@
+main: mc.firepixel.fun.Test
+name: Test
+version: 1.0
+
+commands:
+  test:
+    description: Test command
+    usage: /test
+
+  testgui:
+    description: Opens the test GUI
+
+  teststats:
+    description: Get the player statistics
+
+  testworld:
+    description: Get the world name
